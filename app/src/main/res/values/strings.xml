@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name"><font fgcolor="black">Stocks</font></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment1">Hello blank fragment1</string>
+    <string name="finnhub">
+    <a href="https://www.finnhub.io">Powered by Finnhub</a>
+    </string>
+
+
+</resources>
